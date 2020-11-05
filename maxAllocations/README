@@ -1,0 +1,3 @@
+Este pequeno arquivo implementa um algoritmo que eu imaginei, tenho a sensação de que ele já existe, mas não consegui encontrar
+
+Problema: Dado um inteiro A e um vetor de inteiros B, retorne um dos subjconjuntos de B cuja somatória é <= A, e que, de todos os subconjuntos possíveis, tenha a maior somatória. 
